@@ -21,4 +21,6 @@ This is a collection of alfred extensions created by [Lucifr](http://lucifr.com)
 3. Select the video file in Finder. Press `⌥+⌘+\` to bring up the action menu.
 4. `subtitle`
 
+You should be aware that subtitles downloaded from shooter.cn (which is a Chinese subtitle website) may be mostly in Chinese.
+
 ### More to Come...
