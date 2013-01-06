@@ -35,6 +35,12 @@ You should be aware that subtitles downloaded from shooter.cn (which is a Chines
 
 Search website of browser's current tab with Google's "site:xxx.com" query. 
 
-Notice: this extension supports both Safari and Chrome, however, when both browsers are running, Safari will be considered as priority.
+#### NOTICE!!!
+
+this extension supports both Safari and Google Chrome<del>, however, when both browsers are running, Safari will be considered as priority</del>. Now the extension works based on the current frontmost browser. However, it would works only when you have Google Chrome installed due to the limitation of AppleScript. If you want to use this extension with Safari only please download the "Search Current Site in Safari" extension.
+
+#### Search Current Site in Safari
+
+It works like "Search Current Site" extension but only works Safari. If you don't have Google Chrome installed please download this one.
 
 ### More to Come...
