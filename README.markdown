@@ -29,4 +29,12 @@ You should be aware that subtitles downloaded from shooter.cn (which is a Chines
 
 `sti` without parameter will replace default icon with one by Dan Perrera, or you can use Action to bring in the <path> parameter. Change the $Path to your own permenant icon for quick replacing if you like.
 
+#### Search Current Site
+
+`cd <keywords>`
+
+Search website of browser's current tab with Google's "site:xxx.com" query. 
+
+Notice: this extension supports both Safari and Chrome, however, when both browsers are running, Safari will be considered as priority.
+
 ### More to Come...
